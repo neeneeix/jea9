@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LESSON3</title>
+  <link rel="stylesheet" href="mystyle.css">
+  <style>
+    .table1 th, td {
+      border-radius: 10px;
+    }
+    .container {
+      width: 70%;
+      margin: 20px auto;
+      background-color: #fefefe;
+      padding: 20px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      border-radius: 10px;
+      vertical-align: middle
+    }
+    p {
+ 	padding-left:10px;
+        padding-right:10px;
+        font-family: "Times New Roman", Times, serif;
+    }
+    a:link {
+	  color: #686c7d;
+    }
+
+   a:visited {
+	  color: #454854;
+   }
+
+
+  a:hover {
+	  color: #9ea4bd;
+   }
+    
+   a:active {
+	  color: #454854;
+    } <!-- a final save from w3schools, thank you -->
+  </style>
+</head>
+<body>
+<div class="container" text-align: center;  style="padding-bottom: 120px;">
+<table border="1" align="center" cellpadding="0" width="500" background="BACKGROUND1.gif">
+	<tr bgcolor="#fefcfb"><!-- DECOR THINGY -->
+		<td width="50" height="30" valign="center" align="center"><a href="index.html"><img target="_self" src="ICON1.png" alt="[]" width="30" height="30"></a></td>
+		<td colspan="2">
+			<table align="center" width="530">
+				<tr><!-- HEADER -->
+					<td align="left"><p style="font-family:Times New Roman; color:#231f1e; font-size:30;">Nine's Portfolio ✩°｡ ⋆⸜ 🎧✮</p></td>
+					<td align="right"><p style="font-family:Times New Roman; color:#231f1e; font-size:20;">Quarter 2 | ICT 9</p></td>
+				</tr>
+			</table>
+
+	</tr>
+	<tr bgcolor="#fefcfb">
+		<td colspan="2"><!-- toomanywebsites --><br>
+<font color="#5f6677"  size="3.5"style="text-align:left;">Lots of searching done, worth it though!</font><br>
+<font color="#999fad" size="2" style="text-align:left;">Links and Citations</font><br><img src="GIF5.gif">
+<p align="left" style="color:#454854;">Special thanks to:
+<ul  type="disc" style="text-align:left;">
+<li>Google fonts for <a href="https://fonts.google.com/specimen/Slackey">Slackey!</a> For the bigger titles</li><br><br>
+<li><a href="https://www.w3schools.com/">w3schools</a>; sometimes I don't know if I'm doing things right so</li><br>
+<img src="W31.png" width="400"><br><img src="W32.png" width="400"><br><br>
+<li>ChatGpt --  ⃠  to making ai make your webpages, but I do have to credit the robot for the sample html/css codes seen at the end of the lessons! also lots of "i used __, its not working, how do i fix this?" #responsibleusage</li><br><br>
+<li><a href="https://ph.pinterest.com/jinjiooo/portfolio/">Pinterest! Specifically this board I made, for all the extra icons used</a></li><br><br>
+<li><a href="https://watermelon.crd.co/#graphics">Carrds! Before I made webpages from scratch, I made a lot of sites using carrd.co! Shoutout to that community that I still love</li><br><br>
+<li> yt to <a href="https://ytmp3.la/en-me2N/">mp3 and mp4</a> for all the audios and videos, thank you for not giving me viruses alongside conversions!</li><br><br>
+<li><a href="https://emojicombos.com/kaomoji">emojicombos!</a> always going here for the tiny kaomoji faces and icons. Thank you! <33</li></ul><br><br>
+
+<img src="GIF12.gif"><br>
+<p style="color: #25273b; font-size: 16px; padding: 20px; text-align: left;"><i>Thankyou thankyou thankyou to Zoe,  Lian,  Shanelle,  Chloe,  Mav,  Lindsay & Macey for being the people I chatted on my breaks while doing this project, to those I won't get to see day to day—you may be far, but I still hold you close to my heart—you all make my life worth living ٩(ˊᗜˋ*)و ♡</i></p><br>
+<img src="DIVIDER5.gif" width="300">
+<br><br><font color="#999fad" size="2" style="text-align:left;"><i>Click the memory card to go back home!</font><br>
+</p>
+<br>
+
+		</td>
+	</tr>
+</table>
+</div>
+    <!-- Footer -->
+<p style="position: fixed; bottom: 0; width: 70.5%; text-align: center; background-color: #f8f8f8; margin: 0 auto; left: 0; right: 0; padding: 10px; box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);">
+  <audio controls loop autoplay muted>
+    <source src="MUSIC2.mp3" type="audio/mpeg">
+    Your browser does not support the audio tag.
+  </audio>
+  <br>
+  © 2024 Nine's Portfolio | All rights reserved.
+</p>
+</body>
+</html>

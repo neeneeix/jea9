@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>REFLECTION</title>
+  <link rel="stylesheet" href="mystyle.css">
+  <style>
+    .table1 th, td {
+      border-radius: 10px;
+    }
+    .container {
+      width: 70%;
+      margin: 20px auto;
+      background-color: #fefefe;
+      padding: 20px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      border-radius: 10px;
+      vertical-align: middle
+    }
+    p {
+ 	padding-left:10px;
+        padding-right:10px;
+        font-family: "Times New Roman", Times, serif;
+    }
+  </style>
+</head>
+<body>
+<div class="container" text-align: center;  style="padding-bottom: 120px;">
+<table border="1" align="center" cellpadding="0" width="500" background="BACKGROUND1.gif">
+	<tr bgcolor="#fefcfb"><!-- DECOR THINGY -->
+		<td width="50" height="30" valign="center" align="center"><a href="index.html"><img target="_self" src="ICON1.png" alt="[]" width="30" height="30"></a></td>
+		<td colspan="2">
+			<table align="center" width="530">
+				<tr><!-- HEADER -->
+					<td align="left"><p style="font-family:Times New Roman; color:#231f1e; font-size:30;">Nine's Portfolio ✩°｡ ⋆⸜ 🎧✮</p></td>
+					<td align="right"><p style="font-family:Times New Roman; color:#231f1e; font-size:20;">Quarter 2 | ICT 9</p></td>
+				</tr>
+			</table>
+
+	</tr>
+	<tr bgcolor="#fefcfb">
+		<td colspan="2"><!-- yaayayaya --><br>
+			<img src="TITLE3.png" width="500" align="center"><br><img src="GIF2.gif">
+                                                                <p style="color: #464f62; padding: 0 30px; width: 80%; margin: 0 auto; text-align: center; font-style: italic;">
+  Perhaps one of the most eventful quarters I'll have this SY!
+</p><br><br><img src="GIF8.gif">
+
+<p align="left" style="color:#454854;">
+This was definitely a step-up from our previous lessons in HTML & CSS, from Grade 8 and Quarter 1 now that we almost fully focused on CSS it was really a challenge to figure out how to learn these newer concepts, memorize the never-ending list of values (especially in Lesson 6-7) and figure out what exactly was even being talked about. Grouping information became my best friend and I really had to study out of class because the discussions alone weren't enough for me to fully understand + I was often excused. While I am somewhat disappointed in my quiz 1 (I STUDIED HARD FOR THAT, but I didn't understand a certain part of identification so I failed). I wish for a better performance in the next two quarters as I'm not satisfied yet with this one.<br><br>
+
+Nevertheless, I'm still thankful for our teacher, Ms. Uminga. Even if I found the lessons hard she was still very patient with discussing, very funny and also understanding when we ask for her time for our never-ending list of class projects. Hopefully, with how much time and effort she's put in for us this quarter she also does so for herself -- 2nd quarter was very busy, in the few ICT classes I was able to attend I would say the funniest was when we did oral reci, I am so so glad I got it right! (block=vertical, inline=horizontal).</p><br><br><font color="#999fad" size="2" style="text-align:left;">Thank you again po for all your hard work, Ma'am U!</font><br>
+<img src="GIF11.gif"><br><br><br><a href="index.html"><font color="#25273b" size="5" style="text-align:left;">🏠︎</font></a><br>
+<br>
+
+		</td>
+	</tr>
+</table>
+</div>
+    <!-- Footer -->
+<p style="position: fixed; bottom: 0; width: 70.5%; text-align: center; background-color: #f8f8f8; margin: 0 auto; left: 0; right: 0; padding: 10px; box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);">
+  <audio controls loop autoplay muted>
+    <source src="MUSIC3.mp3" type="audio/mpeg">
+    Your browser does not support the audio tag.
+  </audio>
+  <br>
+  © 2024 Nine's Portfolio | All rights reserved.
+</p>
+</body>
+</html>

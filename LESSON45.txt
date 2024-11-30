@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LESSON45</title>
+  <link rel="stylesheet" href="mystyle.css">
+  <style>
+    .table1 th, td {
+      border-radius: 10px;
+    }
+    .container {
+      width: 70%;
+      margin: 20px auto;
+      background-color: #fefefe;
+      padding: 20px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      border-radius: 10px;
+      vertical-align: middle
+    }
+    p {
+ 	padding-left:10px;
+        padding-right:10px;
+        font-family: "Times New Roman", Times, serif;
+    }
+  </style>
+</head>
+<body>
+<div class="container" text-align: center;  style="padding-bottom: 120px;">
+<table border="1" align="center" cellpadding="0" width="500" background="BACKGROUND1.gif">
+	<tr bgcolor="#fefcfb"><!-- DECOR THINGY -->
+		<td width="50" height="30" valign="center" align="center"><a href="index.html"><img target="_self" src="ICON1.png" alt="[]" width="30" height="30"></a></td>
+		<td colspan="2">
+			<table align="center" width="530">
+				<tr><!-- HEADER -->
+					<td align="left"><p style="font-family:Times New Roman; color:#231f1e; font-size:30;">Nine's Portfolio ✩°｡ ⋆⸜ 🎧✮</p></td>
+					<td align="right"><p style="font-family:Times New Roman; color:#231f1e; font-size:20;">Quarter 2 | ICT 9</p></td>
+				</tr>
+			</table>
+
+	</tr>
+	<tr bgcolor="#fefcfb">
+		<td colspan="2"><!-- lessons45 --><br>
+			<font style="font-size:30px;"><i>Selectors, Div, Span, and Link</i></font><br>
+			<font color="#464f62">Properties and Dimensions</font>
+			<p style="padding:5px;">Selectors, div, span, and link are foundational CSS tools that allow you to target specific HTML elements, structure web content, and define interactive styles for enhanced design and functionality.</p><img src="GIF7.gif"><br><br>
+<!-- INFO STUFF -->
+
+<font color="#5f6677"  size="3.5"style="text-align:left;">Display Property</font><p>The display property determines how elements are arranged on the page:</p><ul type="disc" style="text-align: left;"><li><u>Block-Level Elements:</u> Display vertically, with each element starting on a new line</li><li><u>Inline-Level Elements:</u> Display horizontally, flowing with surrounding content</li></ul><br>
+
+<font color="#999fad" size="2" style="text-align:left;">Common Display Values</font><br><img src="SAMPLECODE3.png" width="440"><br><br>
+
+<font color="#5f6677"  size="3.5"style="text-align:left;">Div and Span Tags</font><ol type="1" style="text-align:left;"><li>Div Tag</li><ul type="disc" style="text-align:left;"><li>A block-level element used to group and style sections of a webpage</li><li>Adds spacing (line breaks) before and after its content</li></ul><li>Span Tag</li><ul type="disc" style="text-align:left;"><li>An inline-level element used to style or emphasize parts of text</li></ul></ol><br>
+
+<ul style="text-align:center;" type="circle"><li>'div' is best for large sections or layout structures</li><li>'span" best for small inline styles or text snippets</li></ul></p><br>
+
+<font color="#5f6677"  size="3.5"style="text-align:left;">Selectors: Classes and IDs</font><ol type="1" style="text-align:left;"><li>Class Selector:</li><ul type="disc" style="text-align:left;"><li>Used to apply styles to multiple elements.</li><li>Defined with a period (.)</li></ul><li>ID Selector:</li><ul type="disc" style="text-align:left;"><li>Targets a unique element on a page.</li><li>Defined with a hash (#).</li></ul></ol><br>
+
+<font color="#5f6677"  size="3.5"style="text-align:left;">Grouping, Nesting, and Combining Selectors</font><ol type="1" style="text-align:left;"><li>Grouping Selectors:</li><ul type="disc" style="text-align:left;"><li>Apply the same style to multiple elements by separating selectors with commas.</li></ul><li>Nesting Selectors:</li><ul type="disc" style="text-align:left;"><li>Style elements inside another element.</li></ul></ol><br>
+
+<font color="#999fad" size="2" style="text-align:left;">Managing Dimensions</font><p>CSS allows control over an element's size and spacing:</p><img src="SAMPLECODE4.png" width="440"><br><br>
+
+<img src="GIF2.gif"><br>
+
+<font color="#5f6677"  size="3.5"style="text-align:left;">Pseudo-Classes and Links</font><p>Pseudo-classes define styles for specific states of elements. They are defined with a colon (:)</p><br><font color="#999fad" size="2" style="text-align:left;">Pseudo-Classes for Links:</font><ul style="text-align:left;"><li><u>:link</u>- Styles unvisited links</li><br><li><u>:visited</u>- Styles links after they've been visited</li><br><li><u>:hover</u>- Styles elements when hovered over by a cursor</li><br><li><u>:active</u>- Styles elements when they are clicked</li><br><li><u>:focused</u>- Styles elements when focused (e.g., an input field)</li></ul><br>
+
+
+<font color="#5f6677"  size="3.5"style="text-align:left;">Example!</font><br><img src="SAMPLECODE5.png" width="440">
+<img src="DIVIDER1.gif"><br><br>
+
+
+		</td>
+	</tr>
+	<tr bgcolor="#fefcfb">
+	<td colspan="2">
+	<br><font color="#464f62"><i>Ready for the next lesson? (click the image)</i></font><br><a target="_self" href="LESSON67.html"><img src="DECOR1.png"></a><br><br>
+	</td></tr>
+</table>
+</div>
+    <!-- Footer -->
+<p style="position: fixed; bottom: 0; width: 70.5%; text-align: center; background-color: #f8f8f8; margin: 0 auto; left: 0; right: 0; padding: 10px; box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);">
+  <audio controls loop autoplay muted>
+    <source src="MUSIC.mp3" type="audio/mpeg">
+    Your browser does not support the audio tag.
+  </audio>
+  <br>
+  © 2024 Nine's Portfolio | All rights reserved.
+</p>
+</body>
+</html>
