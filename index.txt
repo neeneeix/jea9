@@ -12,7 +12,7 @@
       border-radius: 10px;
     }
     .container {
-      width: 70%;
+      width: 1000;
       margin: 20px auto;
       background-color: #fefefe;
       padding: 20px;
