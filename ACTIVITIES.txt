@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ACTIVITIES</title>
+  <link rel="stylesheet" href="mystyle.css">
+  <style>
+    .table1 th, td {
+      border-radius: 10px;
+    }
+    .container {
+      width: 70%;
+      margin: 20px auto;
+      background-color: #fefefe;
+      padding: 20px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      border-radius: 10px;
+      vertical-align: middle
+    }
+    p {
+ 	padding-left:10px;
+        padding-right:10px;
+        font-family: "Times New Roman", Times, serif;
+    }
+  </style>
+</head>
+<body>
+<div class="container" text-align: center;  style="padding-bottom: 120px;">
+<table border="1" align="center" cellpadding="0" width="500" background="BACKGROUND1.gif">
+	<tr bgcolor="#fefcfb"><!-- DECOR THINGY -->
+		<td width="50" height="30" valign="center" align="center"><a href="index.html"><img target="_self" src="ICON1.png" alt="[]" width="30" height="30"></a></td>
+		<td colspan="2">
+			<table align="center" width="530">
+				<tr><!-- HEADER -->
+					<td align="left"><p style="font-family:Times New Roman; color:#231f1e; font-size:30;">Nine's Portfolio ✩°｡ ⋆⸜ 🎧✮</p></td>
+					<td align="right"><p style="font-family:Times New Roman; color:#231f1e; font-size:20;">Quarter 2 | ICT 9</p></td>
+				</tr>
+			</table>
+
+	</tr>
+	<tr bgcolor="#fefcfb">
+		<td colspan="2"><!-- yaayayaya --><br>
+			<img src="TITLE2.png" width="500" align="center"><br><img src="GIF3.gif">
+                                                                <p style="color: #464f62; padding: 0 30px; width: 80%; margin: 0 auto; text-align: center; font-style: italic;">
+  While I cannot make any promises it was a full 8 hours, I was able to sleep each day of this quarter
+</p><br><br>
+
+<p align="center" style="color:#454854;">We started 2nd quarter strong w/ a symposium [Mana Mo]! It was very fun, we even got prizes for participating! And the wind made one of the stands fall and almost injure some of the attendees like, thrice. Fun! </p><img src="IMAGE2.png" width="300" border="1"><br><br>
+<p align="center" style="color:#454854;">Teachers day! We had Ms. U, Ms. Mei & Sir Calimbas. We had a bunch of games, were eventually starving and then had more games!</p><br>
+<video width="300" height="200" controls style="padding-right:10px;">
+  <source src="VIDEO3.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video><br><br>
+<p align="center" style="color:#454854;">LPSci Intrams! [our beautiful ict teacher]</p><img src="IMAGE3.png" width="300" border="1"><br><br>
+<p align="center" style="color:#454854;">This was the week I was dying [j], we went to LP Main for Stemazing! We didn't train much due to suspensions.. we didn't win either. But it was a fun experience! [Why was their bathroom so fancy?]</p><img src="IMAGE4.png" width="300" border="1"><br><br>
+<p align="center" style="color:#454854;">And right after that was Ateneo Debate Camp,.. those were a lot of rounds. I was so tired, but it was so fun!</p><img src="IMAGE5.png" width="300" border="1"><br><br>
+<p align="center" style="color:#454854;">Right after that I helped host the AP month's oratorical contest! It was stressful but later on I was eating lunch while the seniors presented their speeches.</p><img src="IMAGE12.png" width="300" border="1"><br><br>
+<p align="center" style="color:#454854;">I remember this one!! Kuya Suman & Ate Bertha, UN reps gave us a seminar on SDGs. I was eventually limited on my recitation but it was fun to listen to them + we got to make our own projects!</p><img src="IMAGE13.png" width="300" border="1"><br><br>
+<p align="center" style="color:#454854;">I thankfully still have an ambag on this even if I was always excused! Hahaha.. historical icon. Our classroom turned into a sweatshop. Fun times. </p><img src="IMAGE14.png" width="300" border="1"><br><br>
+
+<p align="center" style="color:#454854;">Right after AP month was my other clubs events, Ilus/Eng month! This was pre-book parade. I saw a lot of funny costumes (especially the seniors) Ms Joan looked so cool!</p><img src="IMAGE6.png" width="300" border="1"><br><br>
+<p align="center" style="color:#454854;">Unsure why they did it while a major event was on-going, but, we also had an Earthquake drill.</p><img src="IMAGE7.png" width="300" border="1"><br><br>
+<p align="center" style="color:#454854;">Major event mentioned being Cluster meet! Bawi next time LPSci, we were so close sa vball!</p><img src="IMAGE11.png" width="300" border="1"><br><br>
+<p align="center" style="color:#454854;">Persona Articulata.. Shanelle was chosen under less than 24hrs before the contest AND SHE WON! True diva. Of course my fellow debaters were there (Zoe, Kath, Georgina) they did so well!</p><img src="IMAGE8.png" width="300" border="1"><br><br>
+<p align="center" style="color:#454854;">It looks like a cult but no, vpop practice. I need a miracle with this.</p><img src="IMAGE9.png" width="300" border="1"><br><br>
+<p align="center" style="color:#454854;">This was SHS Booklandia!! THEY DID SO GOOD? SMOKE MACHINES? LIFE-SIZED PROPS? Howww!! Could we borrow for vpop?? I'm so proud of our shs officers for organizing this eventt!!</p><img src="IMAGE10.png" width="300" border="1"><br><br><br><img src="GIF9.gif">
+
+<p align="center" style="color:#454854;">And before I forget, here's the two hands-ons we did at home!</p><img src="HANDSON1.png" width="200" border="1" ><br><img src="HANDSON2.png" width="200" border="1"><br><br>
+
+<p align="center" style="color:#454854;">And.. the whirlpool which was our final hands-on in the ICT room. I completed it! I'm proud of that! (Did I have any errors though..?)</p><img src="HANDSON3.png" width="300" border="1"><br><br><br><img src="DIVIDER2.gif"><br><font color="#999fad" size="2" style="text-align:left;"><i>Click the memory card to go back home!</font><br>
+<br>
+
+		</td>
+	</tr>
+</table>
+</div>
+    <!-- Footer -->
+<p style="position: fixed; bottom: 0; width: 70.5%; text-align: center; background-color: #f8f8f8; margin: 0 auto; left: 0; right: 0; padding: 10px; box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);">
+  <audio controls loop autoplay muted>
+    <source src="MUSIC2.mp3" type="audio/mpeg">
+    Your browser does not support the audio tag.
+  </audio>
+  <br>
+  © 2024 Nine's Portfolio | All rights reserved.
+</p>
+</body>
+</html>
+
+
+
